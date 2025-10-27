@@ -27,7 +27,7 @@
   <code><img title="C#" height="25" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/csharp.svg"></code>
   <code><img title=".NET Core" height="25" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dotnet.svg"></code>
   <code><img title="SQL Server" height="25" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg"></code>
-  <code><img title="Entity Framework Core" height="25" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ef.svg"></code>
+  <code><img title="Entity Framework Core" height="25" src="https://raw.githubusercontent.com/dotnet/EntityFramework.Docs/main/media/ef-logo.png"></code>
   <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/git.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codefactor.svg"></code>
 </p>
@@ -37,4 +37,15 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <p align="center">
   <img height=180 src="https://github-readme-stats.vercel.app/api?username=mahmoud-abdelaziz&show_icons=true&theme=react&hide_border=true" />
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-a
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-abdelaziz&layout=compact&theme=react&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">💻 Featured Projects 💻</h2>
+<p align="center">
+  <a href="https://github.com/mahmoud-abdelaziz/POS-Web-App" title="POS Web App">
+    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud-abdelaziz&repo=POS-Web-App&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+  <a href="https://github.com/mahmoud-abdelaziz/ProblemSolving-CSharp" title="Problem Solving in C#">
+    <img height="100" src="https://github-readme
