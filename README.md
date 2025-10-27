@@ -34,17 +34,6 @@
 
 ---
 
-<h2 align="center">📈 GitHub Activity 📈</h2>
-<p align="center">
-  <!-- GitHub Stats -->
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=mahmoud-abdelaziz&show_icons=true&theme=react&hide_border=true" />
-
-  <!-- Top Language: C# -->
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-abdelaziz&hide=Python,JavaScript,Java,HTML,CSS,PHP,Ruby,Go,Swift,TypeScript&layout=compact&theme=react&hide_border=true" />
-</p>
-
----
-
 <h2 align="center">💻 Projects I’m Working On 💻</h2>
 <p align="center">
   <a href="https://github.com/mahmoud-abdelaziz/POS-Web-App" title="POS Web App">
