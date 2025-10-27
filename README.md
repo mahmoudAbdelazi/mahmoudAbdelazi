@@ -17,7 +17,7 @@
   <br>
   📚 Learning advanced C#, .NET Core, and software architecture
   <br>
-  💬 Ask me anything via <a href="https://github.com/mahmoud-abdelaziz/mahmoud-abdelaziz/issues">GitHub Issues</a>
+  💬 Feel free to reach out to me via <a href="mailto:mahmoudabdelazi962@gmail.com">Email</a>
 </p>
 
 ---
@@ -34,4 +34,19 @@
 
 ---
 
-<h2 align="center">💻 Projects I’m Working
+<h2 align="center">💻 Projects I’m Working On 💻</h2>
+<p align="center">
+  <a href="https://github.com/mahmoud-abdelaziz/POS-Web-App" title="POS Web App">
+    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud-abdelaziz&repo=POS-Web-App&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+  <a href="https://github.com/mahmoud-abdelaziz/ProblemSolving-CSharp" title="Problem Solving in C#">
+    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud-abdelaziz&repo=ProblemSolving-CSharp&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+  <a href="https://github.com/mahmoud-abdelaziz/Backend-Projects" title="Backend Projects">
+    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud-abdelaziz&repo=Backend-Projects&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+</p>
+
+<h4 align="center">
+  <a href="https://github.com/mahmoud-abdelaziz?tab=repositories" title="Show More Repos">🔎 Show More 🔍</a>
+</h4>
