@@ -34,7 +34,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
+<h2 align="center">📈 GitHub Activity 📈</h2>
 <p align="center">
   <img height=180 src="https://github-readme-stats.vercel.app/api?username=mahmoud-abdelaziz&show_icons=true&theme=react&hide_border=true" />
   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-abdelaziz&layout=compact&theme=react&hide_border=true" />
@@ -42,7 +42,7 @@
 
 ---
 
-<h2 align="center">💻 Featured Projects 💻</h2>
+<h2 align="center">💻 Projects I’m Working On 💻</h2>
 <p align="center">
   <a href="https://github.com/mahmoud-abdelaziz/POS-Web-App" title="POS Web App">
     <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud-abdelaziz&repo=POS-Web-App&theme=react&border_color=61dafb&border_radius=10" />
