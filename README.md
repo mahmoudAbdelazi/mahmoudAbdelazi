@@ -15,7 +15,7 @@
   <br>
   💻 Building full-stack web apps and improving Problem Solving skills
   <br>
-  📚 Learning advanced C#, .NET Core, EF Core, and software architecture
+  📚 Learning advanced C#, .NET Core, and software architecture
   <br>
   💬 Ask me anything via <a href="https://github.com/mahmoud-abdelaziz/mahmoud-abdelaziz/issues">GitHub Issues</a>
 </p>
@@ -28,7 +28,6 @@
   <code><img title=".NET Core" height="25" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dotnet.svg"></code>
   <code><img title="Visual Studio" height="25" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualstudio.svg"></code>
   <code><img title="SQL Server" height="25" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg"></code>
-  <code><img title="Entity Framework Core" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/efcore/efcore-original.svg"></code>
   <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/git.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codefactor.svg"></code>
 </p>
