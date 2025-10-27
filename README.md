@@ -39,7 +39,7 @@
   <!-- GitHub Stats -->
   <img height=180 src="https://github-readme-stats.vercel.app/api?username=mahmoud-abdelaziz&show_icons=true&theme=react&hide_border=true" />
 
-  <!-- Top Language: show only C# -->
+  <!-- Top Language: C# -->
   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-abdelaziz&hide=Python,JavaScript,Java,HTML,CSS,PHP,Ruby,Go,Swift,TypeScript&layout=compact&theme=react&hide_border=true" />
 </p>
 
