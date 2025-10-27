@@ -26,6 +26,7 @@
 <p align="center">
   <code><img title="C#" height="25" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/csharp.svg"></code>
   <code><img title=".NET Core" height="25" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dotnet.svg"></code>
+  <code><img title="Visual Studio" height="25" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualstudio.svg"></code>
   <code><img title="SQL Server" height="25" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg"></code>
   <code><img title="Entity Framework Core" height="25" src="https://raw.githubusercontent.com/dotnet/EntityFramework.Docs/main/media/ef-logo.png"></code>
   <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/git.svg"></code>
@@ -48,4 +49,13 @@
     <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud-abdelaziz&repo=POS-Web-App&theme=react&border_color=61dafb&border_radius=10" />
   </a>
   <a href="https://github.com/mahmoud-abdelaziz/ProblemSolving-CSharp" title="Problem Solving in C#">
-    <img height="100" src="https://github-readme
+    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud-abdelaziz&repo=ProblemSolving-CSharp&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+  <a href="https://github.com/mahmoud-abdelaziz/Backend-Projects" title="Backend Projects">
+    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud-abdelaziz&repo=Backend-Projects&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+</p>
+
+<h4 align="center">
+  <a href="https://github.com/mahmoud-abdelaziz?tab=repositories" title="Show More Repos">🔎 Show More 🔍</a>
+</h4>
